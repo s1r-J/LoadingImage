@@ -4,6 +4,10 @@ LoadingImage
 In JavaFX, you start some processes and the program shows loading image.
 After finishing processes, it will show result image.
 
+## Demo
+
+![Demo](./demo.gif)
+
 ## Usage
 
 1. git clone
